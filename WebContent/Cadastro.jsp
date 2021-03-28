@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,7 +14,7 @@
     <title>Cadastro | ArtDigital</title>
 </head>
 <body>
-    <!-- Barra de Navegação -->
+    <!-- Barra de Navegaï¿½ï¿½o -->
     <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between p-3 mb-4 border-bottom">
       <a href="./index.jsp" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
       
@@ -44,12 +44,12 @@
       </div>
     </header>
     
-    <!-- Conteúdo -->
+    <!-- Conteï¿½do -->
     <main>
       <div class="container p-5">
         <div class="text-center">
           <h1>Cadastro</h1>
-          <p>Digite abaixo os dados de usuário à ser cadastrado no sistema!</p>
+          <p>Digite abaixo os dados de usuário a ser cadastrado no sistema!</p>
         </div>
         <form action="" method="post" class="row g-3 justify-content-center mx-auto" style="max-width: 750px;">
           <div class="col-md-8">
@@ -109,10 +109,10 @@
       </div>
     </main>
 
-    <!-- Rodapé -->
+    <!-- Rodapï¿½ -->
     <footer class="fixed-bottom footer mt-auto py-3 bg-light">
       <div class="container">
-        <span class="text-muted">© 2021 ArtDigital</span>
+        <span class="text-muted">ï¿½ 2021 ArtDigital</span>
       </div>
     </footer>
 </body>
